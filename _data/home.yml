@@ -7,5 +7,5 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    url: project1
+    desc: Image to PDF Converter w/ GUI
