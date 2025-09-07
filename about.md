@@ -3,4 +3,4 @@ layout: post
 title: About
 ---
 
-Senior at Indiana University.
+Senior at Indiana University
