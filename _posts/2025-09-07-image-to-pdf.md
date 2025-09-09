@@ -9,5 +9,4 @@ I wanted to work on a project where I could create an application and learn how 
 ## Screenshots
 
 ## Link
-https://github.com/nathankyryk/projects/tree/main/Image%20to%20PDF
-
+https://github.com/nathankyryk/image-to-pdf
