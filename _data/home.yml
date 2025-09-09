@@ -2,6 +2,9 @@ navbar_entries:
   - title: linkedin
     url: https://www.linkedin.com/in/nathan-kyryk-389a54378/
 
+  - title: github
+    url: https://github.com/nathankyryk/projects/tree/main
+
 project_entries:
   - title: Project 1
     url: image-to-pdf
