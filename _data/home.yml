@@ -4,5 +4,5 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: Image-To-PDF
+    url: image-to-pdf
     desc: Image to PDF Converter w/ GUI
