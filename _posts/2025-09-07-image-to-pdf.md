@@ -1,7 +1,6 @@
 ---
 layout: post
 author: Nathan Kyryk
-tags: [overview, moonwalk]
 ---
 
 Image to PDF Converter:
