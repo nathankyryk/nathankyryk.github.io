@@ -12,3 +12,6 @@ project_entries:
   - title: Project 1
     url: image-to-pdf
     desc: Image to PDF Converter w/ GUI
+  - title: Project 2
+    url: image-to-pdf
+    desc: Stock Market Analysis in SQL
