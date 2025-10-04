@@ -16,3 +16,7 @@ project_entries:
   - title: Project 2
     url: image-to-pdf
     desc: Stock Market Analysis in SQL
+
+  - title: Project 3
+    url: image-to-pdf
+    desc: NFL Big Data Bowl (Deep Learning)
