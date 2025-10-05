@@ -10,7 +10,7 @@ For this project, I used the 'GOOGLEFINANCE' function in Google Sheets to extrac
 * 'StockData.csv' - Contains the collected start price, end price, price change, and percent change for each company's stocks, as well as their tickers and company names. The price data spans from 01-01-2023 to 06-30-2025
 
 ## SQL Analysis
-Using SQL queries and window functions, I calculated the following:
+Using SQL queries and window functions, I created the following:
 * Average Percent Increase by Industry: table including industry and average percent increase for a company within said industry
 * Highest Return: table containing company name, percent change for said company, and the industry the company is in, sorted by highest % percent change to lowest
 * Industry Cities: a table that contains city name, industry, and company count for cities that have the headquarters for three or more companies of the same industry located within them
