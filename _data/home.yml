@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: stock-market
+    url: google-finance
     desc: Stock Market Analysis in SQL
 
   - title: Project 2
