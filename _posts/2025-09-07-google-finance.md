@@ -19,8 +19,6 @@ All percentages were rounded to four decimal places and formatted in decimal for
 
 ## Power BI Visualization
 
-## Screenshots
-
 
 ## Link
 https://github.com/nathankyryk/google_finance
