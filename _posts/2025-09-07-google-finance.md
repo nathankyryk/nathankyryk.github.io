@@ -24,8 +24,8 @@ In Power BI, my first tab is a dashboard, and my second tab is a matrix.
     * Average Return By an Industry: a KPI showing a constant value of 50.26% is shown, labeling the average return of all the industries
     * Average % Increase By Industry: a column chart showing the average percentage increase in stock price for each industry when factoring in all of the companies associated with said industry. There is a dashed line in the graph symbolizing the mean % increase, and all bars are color-labeled on a gradient where a deeper blue is a larger increase and a deeper red is a larger decrease.
     * Popular Headquarters Locations By Industry: treemap showing cities and the industry most significantly associated with them.
+![Dashboard](https://github.com/nathankyryk/nathankyryk.github.io/blob/master/images/gf_dashboard.png)
 * Matrix: contains industry, company return, industry average return, and the company performance for each company in each industry. There is a dropdown for each industry containing each company and its performance.
-![Dashboard](images/gf_dashboard.png)
 
 ## Link
 https://github.com/nathankyryk/google_finance
