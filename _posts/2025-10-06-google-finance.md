@@ -32,4 +32,4 @@ In Power BI, my first tab is a dashboard, and my second tab is a matrix.
 ![Matrix](../images/gf_matrix.jpeg)
 
 ## Link
-https://github.com/nathankyryk/google_finance
+[GitHub Repository](https://github.com/nathankyryk/google_finance)
