@@ -20,9 +20,9 @@ All percentages were rounded to four decimal places and formatted in decimal for
 ## Power BI Visualization
 In Power BI, my first tab is a dashboard, and my second tab is a matrix.
 * Dashboard
-    * Max Return By Industry: a KPI visual that shows the percentage of the highest return by a company within the selected industry
-    * Average Return By an Industry: a KPI showing a constant value of 50.26% is shown, labeling the average return of all the industries
-    * Average % Increase By Industry: a column chart showing the average percentage increase in stock price for each industry when factoring in all of the companies associated with said industry. There is a dashed line in the graph symbolizing the mean % increase, and all bars are color-labeled on a gradient where a deeper blue is a larger increase and a deeper red is a larger decrease.
+    * Max Return By Industry: A KPI visual that shows the percentage of the highest return by a company within the selected industry.
+    * Average Return (All Industries): A KPI visual showing the overall average stock return of 50.26% across the entire dataset.
+    * Average % Increase By Industry: A column chart showing the average percentage increase in stock price for each industry when factoring in all of the companies associated with said industry. There is a dashed line in the graph symbolizing the mean % increase, and all bars are color-labeled on a gradient where a deeper blue is a larger increase and a deeper red is a larger decrease.
     * Popular Headquarters Locations By Industry: treemap showing cities and the industry most significantly associated with them.
 
 ![Dashboard](../images/gf_dashboard.jpeg)
