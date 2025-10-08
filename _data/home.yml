@@ -14,5 +14,5 @@ project_entries:
     desc: Stock Market Analysis in SQL
 
   - title: Project 2
-    url: image-to-pdf
+    url: data-bowl
     desc: NFL Big Data Bowl 2026 [WIP]
