@@ -31,5 +31,16 @@ In Power BI, my first tab is a dashboard, and my second tab is a matrix.
 
 ![Matrix](../images/gf_matrix.jpeg)
 
+## Key Findings
+* The highest return for an industry was technology, with an average return of 262% per company.
+  * Palantir Technologies had the highest growth in technology, as well as the entire dataset, with a 2033% return.
+* The average return for an industry across the entire dataset was 50.26%.
+* The mean returns for technology, financial service, and industrial companies outperformed the mean return across the dataset.
+* The mean returns for energy and goods were the only negative returns.
+* Houston is a popular headquarters location for energy companies.
+* New York is a popular headquarters location for financial service companies.
+* Chicago is a popular headquarters location for companies that produce goods.
+* San Jose and Santa Clara, which are located near one another in Silicon Valley, are popular headquarters locations for technology companies.
+
 ## Link
 [GitHub Repository](https://github.com/nathankyryk/google_finance)
