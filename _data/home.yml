@@ -16,3 +16,7 @@ project_entries:
   - title: Project 2
     url: data-bowl
     desc: NFL Big Data Bowl 2026 [WIP]
+
+  - title: Project 3
+    url: nba
+    desc: NBA 3-Pointer Analysis [WIP]
