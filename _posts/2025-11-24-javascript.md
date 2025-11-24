@@ -4,4 +4,4 @@ author: Nathan Kyryk
 title: Projects
 ---
 
-* <a href=https://nathankyryk.github.io/calc>Calculator App</a>
+* [Calculator App](https://nathankyryk.github.io/calc)
