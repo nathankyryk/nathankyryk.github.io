@@ -1,5 +1,7 @@
 ---
 layout: post
 author: Nathan Kyryk
-title: JavaScript/HTML/CSS
+title: Projects
 ---
+
+* <a href=https://nathankyryk.github.io/calc>Calculator App</a>
