@@ -10,9 +10,9 @@ navbar_entries:
 
 project_entries:
   - title: Data Science
-    url: data
+    url: data-science
     desc: Data Science Projects
 
   - title: JavaScript/CSS/HTML
-    url: js
+    url: javascript
     desc: Projects or applications utilizing JavaScript, CSS, HTML
