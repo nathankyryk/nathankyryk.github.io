@@ -9,10 +9,10 @@ navbar_entries:
     url: https://www.linkedin.com/in/nathan-kyryk-389a54378/
 
 project_entries:
-  - title: Project 1
-    url: google-finance
-    desc: Stock Market Analysis in SQL
+  - title: Data Science
+    url: data
+    desc: Data Science Projects
 
-  - title: Project 2
-    url: nba
-    desc: NBA 3-Pointer Analysis [WIP]
+  - title: JavaScript/CSS/HTML
+    url: js
+    desc: Projects or applications utilizing JavaScript, CSS, HTML
