@@ -1,5 +1,5 @@
 ---
 layout: post
 author: Nathan Kyryk
-title: Data Science
+title: Projects
 ---
