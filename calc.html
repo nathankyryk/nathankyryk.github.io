@@ -215,6 +215,43 @@
             shouldResetDisplay = true;
             updateDisplay();
         }
+        document.addEventListener('keydown', function(e) {
+            if (e.key >= '0' && e.key <= '9') {
+                appendNumber(e.key);
+            }
+            else if (e.key === '+') {
+                appendOperator('+');
+            }
+            else if (e.key === '-') {
+                appendOperator('-');
+            }
+            else if (e.key === '*' || e.key === 'x' || e.key === 'X') {
+                appendOperator('*');
+            }
+            else if (e.key === '/') {
+                e.preventDefault(); 
+                appendOperator('/');
+            }
+            else if (e.key === '.' || e.key === ',') {
+                appendDecimal();
+            }
+            else if (e.key === 'Enter' || e.key === '=') {
+                e.preventDefault();
+                calculate();
+            }
+            else if (e.key === 'Escape' || e.key === 'c' || e.key === 'C') {
+                clearDisplay();
+            }
+            else if (e.key === 'Backspace') {
+                e.preventDefault();
+                if (currentValue.length > 1) {
+                    currentValue = currentValue.slice(0, -1);
+                } else {
+                    currentValue = '0';
+                }
+                updateDisplay();
+            }
+        });
     </script>
 </body>
 </html>
